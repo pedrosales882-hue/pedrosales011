@@ -66,13 +66,13 @@ Sempre com resiliência no que faço e desenvolvimento profissional e pessoal.
 ###
 
 <div align="left">
-  <a href=https://www.linkedin.com/in/igor-sabino-22975b3b5?utm_source=share_via&utm_content=profile&utm_medium=member_android>
+  <a href=https://www.linkedin.com/in/pedro-vasconcelos-sales-utm_source=share_via&utm_content=profile&utm_medium=member_android>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href=https://www.instagram.com/igor__sabino?dlrf=a2N0dXNoNmh6Mjk0>
+  <a href=https://www.instagram.com/psales.10?exln=NWV5NDh2Y2ZlZnZy>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-   <a href="mailto:yugosabino@gmail.com" target="_blank">
+   <a href="mailto:pedrosales882@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 <picture>
