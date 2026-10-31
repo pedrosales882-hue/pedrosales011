@@ -1,7 +1,7 @@
 ## 👨‍💻 Pedro Sales
 **`Desenvolvedor FullStack`**
 
-Meu nome é Pedro Vasconcelos Sales, tenho 20 anos e sou natural de São Paulo – SP. Concluí o Ensino Médio em 2024, na Instituição de E.E. Pedro de Alcantara Marcondes Machado, e atualmente curso Engenharia de Software na Universidade Cidade de São Paulo (UNICID).
+Meu nome é Pedro Vasconcelos Sales, tenho 20 anos e sou de de São Paulo – SP. Concluí o Ensino Médio em 2024, na Instituição de E.E. Pedro de Alcantara Marcondes Machado, e atualmente curso Engenharia de Software na Universidade Cidade de São Paulo (UNICID).
 
 Gosta muito de tecnologia e tenho um grande interesse no desenvolvimento de soluções digitais, na programação e na inovação. Busco constantemente ampliar meus conhecimentos e aprimorar minhas habilidades técnicas, conceitos da área de desenvolvimento de software,  explorando diferentes linguagens de programação e ferramentas.
 Sempre com resiliência no que faço e desenvolvimento profissional e pessoal.
@@ -34,14 +34,6 @@ Sempre com resiliência no que faço e desenvolvimento profissional e pessoal.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
@@ -78,15 +70,15 @@ Sempre com resiliência no que faço e desenvolvimento profissional e pessoal.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/pedrosales882-hue/pedrosales882/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/pedrosales882-hue/pedrosales011/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/pedrosales882-hue/pedrosales011/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="Animação arcade no perfil GitHub"
-    src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/pedrosales882-hue/pedrosales011/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
