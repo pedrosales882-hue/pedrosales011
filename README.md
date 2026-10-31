@@ -3,7 +3,7 @@
 
 Meu nome é Pedro Vasconcelos Sales, tenho 20 anos e sou natural de São Paulo – SP. Concluí o Ensino Médio em 2024, na Instituição de E.E. Pedro de Alcantara Marcondes Machado, e atualmente curso Engenharia de Software na Universidade Cidade de São Paulo (UNICID).
 
-Sou apaixonado por tecnologia e tenho grande interesse no desenvolvimento de soluções digitais, na programação e na inovação. Busco constantemente ampliar meus conhecimentos e aprimorar minhas habilidades técnicas, conceitos da área de desenvolvimento de software,  explorando diferentes linguagens de programação e ferramentas.
+Gosta muito de tecnologia e tenho um grande interesse no desenvolvimento de soluções digitais, na programação e na inovação. Busco constantemente ampliar meus conhecimentos e aprimorar minhas habilidades técnicas, conceitos da área de desenvolvimento de software,  explorando diferentes linguagens de programação e ferramentas.
 Sempre com resiliência no que faço e desenvolvimento profissional e pessoal.
 
 
